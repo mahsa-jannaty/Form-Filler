@@ -33,7 +33,3 @@ function fillForm() {
         options.eq(randomIndex).prop('selected', true);
     });
 }
-
-$(document).ready(function() {
-    fillForm(); // Call the function on page load
-});
