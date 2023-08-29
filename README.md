@@ -13,6 +13,15 @@ Automate the population of form fields with random data quickly using jQuery. Th
 
 ## Getting Started
 
+
+To start using this form filler, follow these steps:
+
+1. Include the `fillForm();` function in the script area of your web page or project where you want to automate form population.
+
+```javascript
+fillForm();
+```
+
 ### Prerequisites
 
 Make sure you have the following installed on your machine:
