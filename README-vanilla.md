@@ -31,4 +31,4 @@ To start using this form filler, follow these steps:
 ### Prerequisites
 
 -  A server for serving and previewing the html file
--  A modern web browser that suports [ES6 import/export syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
+-  A modern web browser that suports [ES6 import/export syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import) and [DataTransfer API](https://developer.mozilla.org/en-US/docs/Web/API/DataTransfer)
